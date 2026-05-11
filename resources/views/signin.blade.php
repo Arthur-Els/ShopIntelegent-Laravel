@@ -24,14 +24,14 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-lg-4">
+        <div class="col-4">
             <div class="card bg-primary">
                 <div class="card-body">
                     asd
                 </div>
             </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-4">
             <div class="card bg-danger">
                 <div class="card-body">
                     bcd
@@ -39,7 +39,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-4">
             <div class="card bg-warning">
                 <div class="card-body">
                     zxc

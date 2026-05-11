@@ -10,7 +10,7 @@
             <ul class="navbar-nav ms-auto me-3">
                 <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Categories</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Cart</a></li>
+                <li class="nav-item"><a class="nav-link" href="/cart">Cart</a></li>
             </ul>
             <a class="btn btn-outline-primary" href="/signin">Sign In</a>
             </div>
